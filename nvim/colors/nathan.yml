@@ -1,0 +1,52 @@
+information:
+  name: nathan
+  background: dark
+  author: "Nathan Lam <nathanlam111@gmail.com>"
+
+# -------------- Color Palette ---------------
+palette:
+  fg: "#74a7a7"
+  bg: "#152031"
+ 
+  white: "#ecf6f7"
+  green: "#608B4E"
+  blue: "#71a0a1"
+  darkerblue: "#10737B"
+  gray: "#5b6572"
+  teal: "#4f8286"
+  bluer: "#06858d"
+  reddish: "#904b69"
+  darkestblue: "#1B253B"
+
+highlights:
+  Normal: "fg bg"
+  Visual: "white #0e4862"
+  TSConstructor: "#d9dcde"
+  TSParameter: "#d9dcde"
+  TSVariable: "#d9dcde"
+  TSString: "#22E2E4"
+  TSOperator: "#e96689"
+  TSInclude: "green"
+  TSKeywordFunction: "#d1758c"
+  TSMethod: "#d1758c"
+  TSFunction: "#daa8a1 - b"
+  TSFuncBuiltin: "#daa8a1"
+  TSConditional: "#d1758c" 
+  TSType: "#c7cacd"
+  TSNamespace: "#c2c6c8"
+  TSInclude: "#fdad8e"
+  TSKeyword: "#b37ca0"
+  TSComment: "#65758f - i"
+  yamlTSString: "#0CD7D9"
+  yamlTSField: "#eb6689"
+  VertSplit: "#22E2E4"
+  CursorLine: "#d9dcde #0e4962 b"
+  CursorLineNr: "white white b"
+  Directory: "bluer"
+  LineNr: "#65758f"
+  BufferLineSeparator: "bluer"
+  TSPunctDelimiter: "#eb6689"
+  SignColumn: "- -"
+  Function: "#F9B5AC"
+  NonText: "bg bg"
+# hellooo this is a comment
